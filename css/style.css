@@ -15,6 +15,12 @@ hr {
     height: 2px;
     background: #444; }
 
+p {
+  width: 100%; }
+  @media screen and (min-width: 600px) {
+    p {
+      width: 30%; } }
+
 .source-sans-pro {
   font-family: "Source Sans Pro", sans-serif;
   color: #444; }
@@ -25,7 +31,6 @@ hr {
   .source-sans-pro h3 {
     font-size: 18px; }
   .source-sans-pro p {
-    width: 30%;
     font-size: 16px;
     font-weight: 500; }
     .source-sans-pro p.intro {
@@ -46,7 +51,6 @@ hr {
   .rooney-web h3 {
     font-size: 18px; }
   .rooney-web p {
-    width: 30%;
     font-size: 16px;
     font-weight: 500; }
     .rooney-web p.intro {
@@ -65,7 +69,6 @@ hr {
   .open h3 {
     font-size: 18px; }
   .open p {
-    width: 30%;
     font-size: 16px;
     font-weight: 500; }
     .open p.intro {
