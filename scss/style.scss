@@ -1,4 +1,5 @@
 $source: 'Source Sans Pro', sans-serif;
+$open: 'Open Sans', sans-serif;
 $rooney: 'rooney-web', serif;
 
 *{
@@ -77,8 +78,8 @@ hr{
 	}
 }
 
-.novocento{
-	font-family: $source;
+.open{
+	font-family: $open;
 	color: #444;
 	h1{
 		font-size: 30px;

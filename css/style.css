@@ -55,21 +55,21 @@ hr {
     .rooney-web p.light {
       font-weight: 300; }
 
-.novocento {
-  font-family: "Source Sans Pro", sans-serif;
+.open {
+  font-family: "Open Sans", sans-serif;
   color: #444; }
-  .novocento h1 {
+  .open h1 {
     font-size: 30px; }
-  .novocento h2 {
+  .open h2 {
     font-size: 24px; }
-  .novocento h3 {
+  .open h3 {
     font-size: 18px; }
-  .novocento p {
+  .open p {
     width: 30%;
     font-size: 16px;
     font-weight: 500; }
-    .novocento p.intro {
+    .open p.intro {
       font-size: 18px;
       font-weight: 600; }
-    .novocento p.light {
+    .open p.light {
       font-weight: 300; }
