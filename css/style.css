@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  width: 90%;
+  padding: 5%; }
+
+hr {
+  margin: 50px 0;
+  height: 1px;
+  background: #ccc;
+  border: none; }
+  hr.strong {
+    height: 2px;
+    background: #444; }
+
+.source-sans-pro {
+  font-family: "Source Sans Pro", sans-serif;
+  color: #444; }
+  .source-sans-pro h1 {
+    font-size: 30px; }
+  .source-sans-pro h2 {
+    font-size: 24px; }
+  .source-sans-pro h3 {
+    font-size: 18px; }
+  .source-sans-pro p {
+    width: 30%;
+    font-size: 16px;
+    font-weight: 500; }
+    .source-sans-pro p.intro {
+      font-size: 18px;
+      font-weight: 600; }
+    .source-sans-pro p.light {
+      font-weight: 300; }
+
+.rooney-web {
+  font-family: "rooney-web", serif;
+  color: #444; }
+  .rooney-web h1 {
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 900; }
+  .rooney-web h2 {
+    font-size: 24px; }
+  .rooney-web h3 {
+    font-size: 18px; }
+  .rooney-web p {
+    width: 30%;
+    font-size: 16px;
+    font-weight: 500; }
+    .rooney-web p.intro {
+      font-size: 18px;
+      font-weight: 600; }
+    .rooney-web p.light {
+      font-weight: 300; }
+
+.novocento {
+  font-family: "Source Sans Pro", sans-serif;
+  color: #444; }
+  .novocento h1 {
+    font-size: 30px; }
+  .novocento h2 {
+    font-size: 24px; }
+  .novocento h3 {
+    font-size: 18px; }
+  .novocento p {
+    width: 30%;
+    font-size: 16px;
+    font-weight: 500; }
+    .novocento p.intro {
+      font-size: 18px;
+      font-weight: 600; }
+    .novocento p.light {
+      font-weight: 300; }
